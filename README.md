@@ -55,7 +55,7 @@ This section shows the real-time pipeline in action:
 
 This demonstrates how real-world streaming pipelines operate.
 
-![Live Stream](SC/con_py.JPG)
+![Live Stream](SC/pro-con.JPG)
 
 ---
 
