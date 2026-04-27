@@ -36,7 +36,7 @@ The Python producer fetches live crypto data from the API and continuously sends
 
 ![Producer](SC/pro_py.JPG)
 
-## 📤 Consumer  (Data Ingestion)
+## 📤 Consumer (Stream Processing)
 
 The Python producer fetches live crypto data from the API and continuously sends it to Kafka.
 
