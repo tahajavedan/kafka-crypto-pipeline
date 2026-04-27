@@ -38,7 +38,7 @@ The Python producer fetches live crypto data from the API and continuously sends
 
 ## 📤 Consumer (Stream Processing)
 
-The Python producer fetches live crypto data from the API and continuously sends it to Kafka.
+The Python consumer reads real-time data from Kafka, processes it, batches it, and uploads it to MinIO.
 
 ![Producer](SC/con_py.JPG)
 
